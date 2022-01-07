@@ -6,7 +6,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
+const description = "Remember to replace this descriptions";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
@@ -15,7 +15,7 @@ const solanaMetadata = {
   external_url: "https://www.youtube.com/c/hashlipsnft",
   creators: [
     {
-      address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+      address: "0xd1C3f52898525CDE32197322Ac3829a1f0766Da3",
       share: 100,
     },
   ],
